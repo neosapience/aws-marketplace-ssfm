@@ -1,0 +1,48 @@
+END USER LICENSE AGREEMENT FOR TYPECAST SSFM
+
+This End User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Neosapience, Inc. ("Neosapience") for the Typecast SSFM software product, which includes computer software and associated media and documentation (collectively, the "Software").
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. GRANT OF LICENSE
+   Neosapience grants you a non-exclusive, non-transferable license to use the Software for your personal or internal business purposes, subject to the terms and conditions of this EULA.
+
+2. RESTRICTIONS
+   You may not:
+   a) Reverse engineer, decompile, or disassemble the Software, except and only to the extent that such activity is expressly permitted by applicable law.
+   b) Rent, lease, lend, sell, redistribute, sublicense, or transfer the Software.
+   c) Use the Software for any purpose that is illegal or prohibited by this EULA.
+   d) Use the Software to create content that infringes upon the rights of others.
+   e) Remove any proprietary notices or labels on the Software.
+
+3. INTELLECTUAL PROPERTY RIGHTS
+   The Software is protected by copyright and other intellectual property laws and treaties. Neosapience owns all title, copyright, and other intellectual property rights in the Software. This EULA does not grant you any rights to trademarks or service marks of Neosapience.
+
+4. CONTENT CREATION
+   Any content created using the Software must comply with all applicable laws and regulations. You are solely responsible for any content you create using the Software.
+
+5. DATA COLLECTION
+   Neosapience may collect and use technical information gathered as part of its product support services. Neosapience may use this information solely to improve its products or to provide customized services or technologies to you.
+
+6. UPDATES
+   The Software may automatically download and install updates from time to time. These updates are designed to improve, enhance, and further develop the Software and may take the form of bug fixes, enhanced functions, new software modules, and completely new versions.
+
+7. TERMINATION
+   Without prejudice to any other rights, Neosapience may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the Software.
+
+8. DISCLAIMER OF WARRANTIES
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL NEOSAPIENCE BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+10. GOVERNING LAW
+    This EULA shall be governed by the laws of the jurisdiction in which Neosapience is located, excluding its conflicts of law rules.
+
+11. ENTIRE AGREEMENT
+    This EULA constitutes the entire agreement between you and Neosapience relating to the Software and supersedes all prior or contemporaneous oral or written communications, proposals, and representations with respect to the Software or any other subject matter covered by this EULA.
+
+By using Typecast SSFM, you acknowledge that you have read this EULA, understand it, and agree to be bound by its terms and conditions.
+
+Neosapience, Inc.
+Last updated: 2023-11-15
